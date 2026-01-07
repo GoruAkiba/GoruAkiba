@@ -1,10 +1,10 @@
 ![GB_Sources](/img/gbsources.png)
 <hr>
 
-✨ 🖐️ Hi I'm GoruAkiba, STEM student and man behind **GB_Sources** a non-profit initiative dedicated to building open-source tools and empowering developers.
+✨ 🖐️ Hi I'm GoruAkiba, 
 
-
-<br><br>
+STEM student and man behind **GB_Sources** a non-profit initiative dedicated to building open-source tools and empowering developers.
+<br>
 
 ## 🧠 Tech Stack
 
@@ -13,4 +13,7 @@
 - Bash
 
 **What i do**
-- Creating 
+- Creating an open source tools
+- Reverse engineer Javascript code
+- Creating Chrome extension
+
