@@ -26,7 +26,6 @@ STEM student and man behind **GB_Sources** a non-profit initiative dedicated to 
                 <img
                 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=goruAkiba&theme=apprentice"
                 alt="GitHub Stats"
-                width="609"
                 />
             </td>
         </tr>
