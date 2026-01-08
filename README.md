@@ -8,14 +8,35 @@ STEM student and man behind **GB_Sources** a non-profit initiative dedicated to 
 
 ## 🧠 Tech Stack
 
-**Languages**
-- JavaScript (Node.js, Browser, Appsscript)
-- Bash
-
-**What i do**
-- Creating an open source tools
-- Reverse engineer Javascript code
-- Creating Chrome extension
+<table>
+<tr>
+    <td style="vertical-align: top;">
+        <h4>Languages</h4>
+        <ul>
+            <li>
+                JavaScript (Node.js, Browser, Appsscript)
+            </li>
+            <li>
+                Bash
+            </li>
+        </ul>
+    </td>
+    <td style="vertical-align: top;">
+        <h4>What i do</h4>
+        <ul>
+            <li>
+                Creating an open source tools
+            </li>
+            <li>
+                Reverse engineer Javascript code
+            </li>
+            <li>
+                Creating Chrome extension
+            </li>
+        </ul>
+    </td>
+</tr>
+</table>
 
 ## 📈 Stats
 
