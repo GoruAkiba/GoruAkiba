@@ -17,3 +17,30 @@ STEM student and man behind **GB_Sources** a non-profit initiative dedicated to 
 - Reverse engineer Javascript code
 - Creating Chrome extension
 
+## 📈 Stats
+
+<center>
+    <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=goruAkiba&theme=apprentice"
+    alt="GitHub Stats"
+    width="609"
+    />
+    <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=goruAkiba&theme=apprentice"
+    alt="GitHub Stats"
+    width="200"
+    />
+    <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=goruAkiba&theme=apprentice"
+    alt="Top Languages"
+    width="200"
+    />
+    <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=goruAkiba&theme=apprentice&utcOffset=8"
+    alt="most commit"
+    width="200"
+    />
+</center>
+
+
+
